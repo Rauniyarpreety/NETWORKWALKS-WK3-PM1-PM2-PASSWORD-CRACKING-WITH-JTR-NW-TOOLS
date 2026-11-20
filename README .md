@@ -4,7 +4,7 @@ For Week 3 of my cybersecurity internship with NetworkWalks Academy, I tested pa
 
 ## Tools used
 
-- **Kali Linux** and **John the Ripper (JtR)** for the desktop lab.
+- **Kali Linux** and **John the Ripper (JTR)** for the desktop lab.
 - **Johnny**, the graphical interface for John the Ripper, to review the PDF recovery result.
 - **NetworkWalks Hash Calculator** to inspect the encrypted PDF and extract its password-verification data.
 - **NetworkWalks Dictionary Attack Lab** to observe a wordlist-based password test.
